@@ -1,0 +1,24 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "modules": false,
+        "useBuiltIns": "usage"
+      }
+    ]
+  ]
+}
+
+// {
+//   "presets": [
+//     [
+//       "latest",
+//       {
+//         "es2015": {
+//           "modules": false
+//         }
+//       }
+//     ]
+//   ]
+// }
