@@ -1,2 +1,3 @@
-# js-utils
-javascript utils
+## js-utils
+
+js 工具库
